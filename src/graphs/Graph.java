@@ -103,6 +103,8 @@ public class Graph {
 		
 		g.display();
 		
+		System.out.println();
+		
 
 	}
 
